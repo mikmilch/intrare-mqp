@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import logo3 from '../public/logo3.jpg'
-import bottomFiller from '/Users/mikaelamilch/Library/CloudStorage/OneDrive-WorcesterPolytechnicInstitute(wpi.edu)/2023-2024/MQP/intrare-mqp/app/bottomFiller.png';
+import bottomFiller from 'app/bottomFiller.png';
 
 export default function Home() {
   return (

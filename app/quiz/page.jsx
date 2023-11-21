@@ -97,7 +97,7 @@ const page = () => {
                   <div className="filling-box">
                     <div
                       className="filling-bar"
-                      style={{ width: `${((activeQuestion + 1) / questions.length) * 100}%` }}
+                      style={{ width: `${((activeQuestion ) / questions.length) * 100}%` }}
                     />
                   </div>
                   <h2 className="question-status">
